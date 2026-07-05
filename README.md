@@ -6,7 +6,7 @@ catalysts, and ranked risks — with financial advice structurally blocked.*
 Built for the **AI Agents: Intensive Vibe Coding Capstone** (Kaggle × Google).
 Track: **Agents for Business**.
 
-![Architecture](docs/architecture.png)
+![Architecture](docs/architecture(1).png)
 
 ## The problem
 
